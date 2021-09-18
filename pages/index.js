@@ -7,7 +7,5 @@ import {
 } from '@chakra-ui/react';
 
 export default function Home() {
-  return (
-    <Center></
-  );
+  return <Center></Center>;
 }
